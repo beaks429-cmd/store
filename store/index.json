@@ -900,4 +900,19 @@
     	"feat": "Inception",
     	"invert": true
   }
-}]
+}]"name": "Hollow Knight"
+  "icon": "https://images.squarespace-cdn.com/content/v1/606d159a953867291018f801/1619987722169-VV6ZASHHZNRBJW9X0PLK/Key_Art_02_layeredjpg.jpg?format=1500w"
+  "type": "game"
+  "data": {
+    "type": "IFrame", // type currently supports IFrame only
+    "url": "hollowknight.io"
+    "gallery": [
+      "https://hb.imgix.net/d73d29a560b20cb200d6f6d7daf935043b6edd8a.jpeg?auto=compress,format&fit=crop&h=353&w=616&s=24ed82654ecaa67252feccb8e64f3ee5",
+      "https://media.gq.com/photos/5b4f85bf80d4544fbe01ecc9/16:9/w_2560%2Cc_limit/hollow-night-review-gq-1.jpg",
+      "https://store-images.s-microsoft.com/image/apps.47684.13847644057609868.a4a91f76-8d1c-4e19-aa78-f4d27d2818fb.ac5a198f-72dc-4b62-aa7c-74e82a00192f?w=544&format=jpg"
+    ],
+    "desc": "Hollow knight is a popular platformer..."
+    "feat": "1.1 Combat changes.\n1.2 Fletching table functionality."
+    "invert": false
+  }
+}
